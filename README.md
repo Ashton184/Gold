@@ -1,0 +1,9 @@
+# Gold
+COSC 202 - Lab 1: Gold
+
+ <p><center><table border=3 cellpadding=3><td><pre>
+ ...............
+ ..-............
+ .........A.....
+ ..Z.........C..
+ </pre></td></table></center><p>
