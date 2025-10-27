@@ -1,5 +1,6 @@
 # Gold
 COSC 202 - Lab 1: Gold
+<UL>
 This program reads a "map" on standard input.  It's really a text file in
 the following format:
 
